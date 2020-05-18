@@ -1,0 +1,24 @@
+{
+  "name": "lotr",
+  "version": "1.0.0",
+  "description": "een test met bootscrap voor fro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[C\u0016https://github.com/HugovanderGeest/bootstrap.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "demo",
+    "Fro"
+  ],
+  "author": "Hugo van der Geest",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0"
+  }
+}
